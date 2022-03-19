@@ -1,0 +1,19 @@
+{
+	id: "e924cc9e-8fb7-4ea1-b732-c4bf88f36ae9"
+	type: "player"
+	player_name: "Tynamo43"
+	ranks: {
+		e924cc9e-8fb7-4ea1-b732-c4bf88f36ae9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tynamo43"
+		"ftbteams:color": "#59A4FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
