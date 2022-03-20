@@ -1,0 +1,19 @@
+{
+	id: "ff5238c6-fcff-4d95-b8c8-7433123ff238"
+	type: "player"
+	player_name: "Amitrajit"
+	ranks: {
+		ff5238c6-fcff-4d95-b8c8-7433123ff238: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Amitrajit"
+		"ftbteams:color": "#EA59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,4 +1,10 @@
 {
+  "elementalcraft:pickup/air_shard": {
+    "criteria": {
+      "has_air_shard": "2022-03-19 18:10:44 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2022-03-19 03:23:50 +0000"
@@ -30,6 +36,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2022-03-19 19:36:10 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-03-18 22:55:14 +0000"
@@ -39,6 +51,12 @@
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2022-03-19 05:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2022-03-19 20:17:59 +0000"
     },
     "done": true
   },
@@ -154,6 +172,7 @@
     "criteria": {
       "cookie": "2022-03-19 03:59:57 +0000",
       "apple": "2022-03-19 00:29:05 +0000",
+      "spider_eye": "2022-03-19 18:07:24 +0000",
       "potato": "2022-03-19 04:44:53 +0000",
       "bread": "2022-03-19 00:44:04 +0000",
       "golden_apple": "2022-03-19 05:16:13 +0000",
@@ -191,6 +210,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2022-03-18 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2022-03-19 18:23:50 +0000"
     },
     "done": true
   },
@@ -359,6 +384,18 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2022-03-19 18:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-03-19 19:28:11 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/search/basic_magnet": {
     "criteria": {
       "iron": "2022-03-18 23:07:20 +0000"
@@ -401,6 +438,12 @@
     },
     "done": false
   },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2022-03-19 19:27:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2022-03-18 23:45:28 +0000",
@@ -423,6 +466,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-03-18 23:05:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2022-03-19 18:15:24 +0000"
     },
     "done": true
   },
@@ -495,7 +544,8 @@
       "minecraft:spider": "2022-03-19 04:45:55 +0000",
       "minecraft:creeper": "2022-03-19 04:45:50 +0000",
       "minecraft:witch": "2022-03-19 03:32:26 +0000",
-      "minecraft:zombie": "2022-03-18 23:05:41 +0000"
+      "minecraft:zombie": "2022-03-18 23:05:41 +0000",
+      "minecraft:zombie_villager": "2022-03-19 20:36:44 +0000"
     },
     "done": false
   },
@@ -508,6 +558,12 @@
   "silentgear:blaze_gold": {
     "criteria": {
       "get_item": "2022-03-19 02:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-03-19 18:51:09 +0000"
     },
     "done": true
   },
@@ -528,6 +584,22 @@
       "has_planks": "2022-03-19 00:37:32 +0000"
     },
     "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2022-03-19 18:21:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2022-03-19 19:19:54 +0000",
+      "seared_heater": "2022-03-19 19:20:32 +0000",
+      "seared_basin": "2022-03-19 19:33:02 +0000",
+      "seared_faucet": "2022-03-19 19:32:44 +0000",
+      "seared_melter": "2022-03-19 19:23:06 +0000"
+    },
+    "done": false
   },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
@@ -610,6 +682,12 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2022-03-19 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-03-19 17:38:25 +0000"
     },
     "done": true
   },
