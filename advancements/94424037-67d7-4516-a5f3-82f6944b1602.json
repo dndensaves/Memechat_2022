@@ -60,6 +60,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-03-20 22:34:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2022-03-19 20:17:59 +0000"
@@ -72,6 +78,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-03-20 22:46:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2022-03-18 22:55:14 +0000"
@@ -81,6 +93,12 @@
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2022-03-20 07:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-03-20 19:04:37 +0000"
     },
     "done": true
   },
@@ -111,6 +129,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2022-03-20 04:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_baker": {
+    "criteria": {
+      "bakery": "2022-03-20 23:23:49 +0000"
     },
     "done": true
   },
@@ -225,9 +249,10 @@
   },
   "silentgear:nether_plants": {
     "criteria": {
-      "banana": "2022-03-19 04:09:11 +0000"
+      "banana": "2022-03-19 04:09:11 +0000",
+      "sapling": "2022-03-21 01:44:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -271,6 +296,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2022-03-18 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/elementpipe_impaired": {
+    "criteria": {
+      "has_elementpipe_impaired": "2022-03-21 01:44:05 +0000"
     },
     "done": true
   },
@@ -394,6 +425,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2022-03-20 19:04:37 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2022-03-20 04:56:11 +0000"
@@ -421,6 +458,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-03-18 23:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_fisherman": {
+    "criteria": {
+      "fisherman": "2022-03-20 22:42:02 +0000"
     },
     "done": true
   },
@@ -481,6 +524,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-03-19 19:28:11 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2022-03-21 01:43:01 +0000"
     },
     "done": true
   },
@@ -548,6 +597,12 @@
   "minecolonies:military/root": {
     "criteria": {
       "guardtower": "2022-03-20 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2022-03-20 22:34:22 +0000"
     },
     "done": true
   },
@@ -660,14 +715,23 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2022-03-20 20:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-03-19 03:20:58 +0000",
+      "minecraft:blaze": "2022-03-20 22:35:27 +0000",
       "minecraft:skeleton": "2022-03-18 23:14:43 +0000",
       "minecraft:ravager": "2022-03-19 03:44:38 +0000",
+      "minecraft:ghast": "2022-03-20 22:41:43 +0000",
       "minecraft:vindicator": "2022-03-19 03:51:21 +0000",
       "minecraft:spider": "2022-03-19 04:45:55 +0000",
       "minecraft:creeper": "2022-03-19 04:45:50 +0000",
+      "minecraft:zombified_piglin": "2022-03-20 22:14:51 +0000",
       "minecraft:witch": "2022-03-19 03:32:26 +0000",
       "minecraft:cave_spider": "2022-03-20 06:38:02 +0000",
       "minecraft:zombie": "2022-03-18 23:05:41 +0000",
@@ -678,6 +742,12 @@
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2022-03-19 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-03-20 22:34:22 +0000"
     },
     "done": true
   },
@@ -730,6 +800,12 @@
       "seared_basin": "2022-03-19 19:33:02 +0000",
       "seared_faucet": "2022-03-19 19:32:44 +0000",
       "seared_melter": "2022-03-19 19:23:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-03-20 23:10:01 +0000"
     },
     "done": false
   },
@@ -805,6 +881,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2022-03-21 01:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-03-18 23:07:20 +0000"
@@ -823,15 +905,15 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2022-03-20 08:15:47 +0000"
-    },
-    "done": true
-  },
   "minecolonies:minecolonies/build_builder": {
     "criteria": {
       "builders_hut": "2022-03-20 07:27:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2022-03-20 08:15:47 +0000"
     },
     "done": true
   },
