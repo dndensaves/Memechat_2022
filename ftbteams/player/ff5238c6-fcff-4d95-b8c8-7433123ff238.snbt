@@ -2,9 +2,7 @@
 	id: "ff5238c6-fcff-4d95-b8c8-7433123ff238"
 	type: "player"
 	player_name: "Amitrajit"
-	ranks: {
-		ff5238c6-fcff-4d95-b8c8-7433123ff238: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Amitrajit"
 		"ftbteams:color": "#EA59FF"

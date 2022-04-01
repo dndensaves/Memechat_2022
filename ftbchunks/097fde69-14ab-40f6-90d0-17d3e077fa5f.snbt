@@ -4,5 +4,13 @@
 	extra_claim_chunks: 0
 	extra_force_load_chunks: 0
 	chunk_load_offline: true
-	chunks: { }
+	chunks: {
+		"allthemodium:mining": [
+			{ x: -130, z: -387, time: 1648018926718L, force_loaded: 1648018928004L }
+			{ x: -130, z: -388, time: 1648018728295L, force_loaded: 1648018728776L }
+			{ x: -131, z: -388, time: 1648018725310L, force_loaded: 1648018726495L }
+			{ x: -129, z: -387, time: 1648018917766L, force_loaded: 1648018918373L }
+			{ x: -129, z: -388, time: 1648018782681L, force_loaded: 1648018784690L }
+		]
+	}
 }

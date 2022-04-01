@@ -2,9 +2,7 @@
 	id: "94424037-67d7-4516-a5f3-82f6944b1602"
 	type: "player"
 	player_name: "Boneyear"
-	ranks: {
-		94424037-67d7-4516-a5f3-82f6944b1602: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Boneyear"
 		"ftbteams:color": "#FFFC59"

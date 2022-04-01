@@ -1,0 +1,40 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	chunk_load_offline: true
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -131, z: -386, time: 1648132837324L, force_loaded: 1648133627930L }
+			{ x: -131, z: -385, time: 1648132837567L, force_loaded: 1648133628131L }
+			{ x: -143, z: -387, time: 1648419827817L, force_loaded: 1648419828917L }
+			{ x: -141, z: -389, time: 1648419833991L, force_loaded: 1648419834408L }
+			{ x: -143, z: -389, time: 1648419823880L, force_loaded: 1648419825346L }
+			{ x: -143, z: -388, time: 1648419827593L, force_loaded: 1648419828271L }
+			{ x: -132, z: -386, time: 1648133624445L, force_loaded: 1648133627178L }
+			{ x: -132, z: -385, time: 1648133625171L, force_loaded: 1648133627630L }
+			{ x: -142, z: -389, time: 1648419830748L, force_loaded: 1648419831129L }
+			{ x: -144, z: -390, time: 1648419832371L, force_loaded: 1648419832794L }
+			{ x: -144, z: -389, time: 1648419823627L, force_loaded: 1648419824890L }
+		]
+		"allthemodium:mining": [
+			{ x: -130, z: -388, time: 1648179884409L, force_loaded: 1648179887988L }
+			{ x: -130, z: -389, time: 1648179884034L, force_loaded: 1648179887677L }
+			{ x: -130, z: -390, time: 1648179882458L, force_loaded: 1648179887355L }
+			{ x: -128, z: -388, time: 1648179885180L, force_loaded: 1648179888596L }
+			{ x: -130, z: -391, time: 1648096107287L, force_loaded: 1648096120419L }
+			{ x: -130, z: -392, time: 1648096107079L, force_loaded: 1648096119271L }
+			{ x: -126, z: -388, time: 1648179885784L, force_loaded: 1648179888876L }
+			{ x: -129, z: -388, time: 1648179884828L, force_loaded: 1648179888277L }
+			{ x: -127, z: -388, time: 1648179885477L, force_loaded: 1648179889506L }
+			{ x: -129, z: -391, time: 1648096107492L, force_loaded: 1648096120818L }
+			{ x: -129, z: -392, time: 1648096107697L, force_loaded: 1648096119019L }
+		]
+		"minecraft:the_nether": [
+			{ x: -17, z: -49, time: 1648768951794L, force_loaded: 1648768953889L }
+			{ x: -17, z: -50, time: 1648768956488L, force_loaded: 1648768956882L }
+			{ x: -16, z: -49, time: 1648768957483L, force_loaded: 1648768957933L }
+		]
+	}
+}

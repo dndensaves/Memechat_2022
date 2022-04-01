@@ -4,5 +4,19 @@
 	extra_claim_chunks: 0
 	extra_force_load_chunks: 0
 	chunk_load_offline: true
-	chunks: { }
+	chunks: {
+		"allthemodium:mining": [
+			{ x: -128, z: -386, time: 1647999289337L, force_loaded: 1647999337772L }
+			{ x: -130, z: -389, time: 1647999288174L, force_loaded: 1647999336233L }
+			{ x: -128, z: -387, time: 1647999289036L, force_loaded: 1647999337527L }
+			{ x: -128, z: -388, time: 1647999288742L, force_loaded: 1647999337236L }
+			{ x: -128, z: -389, time: 1647999292441L, force_loaded: 1647999336968L }
+			{ x: -131, z: -386, time: 1647999291069L, force_loaded: 1647999335168L }
+			{ x: -131, z: -387, time: 1647999290598L, force_loaded: 1647999335369L }
+			{ x: -129, z: -386, time: 1647999289579L, force_loaded: 1647999334770L }
+			{ x: -131, z: -389, time: 1647999291729L, force_loaded: 1647999335971L }
+			{ x: -129, z: -389, time: 1647999288424L, force_loaded: 1647999336567L }
+			{ x: -130, z: -386, time: 1647999289949L, force_loaded: 1647999334929L }
+		]
+	}
 }

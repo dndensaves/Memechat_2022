@@ -1,7 +1,289 @@
 {
-  "mcwroofs:recipes/spruce_planks": {
+  "elementalcraft:pickup/air_shard": {
     "criteria": {
-      "has_planks": "2022-03-19 22:34:37 +0000"
+      "has_air_shard": "2022-03-24 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2022-04-01 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2022-03-24 00:13:20 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2022-03-19 22:34:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2022-03-23 21:06:02 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-03-19 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2022-03-25 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "mana-and-artifice:codex_trade": {
+    "criteria": {
+      "get_guide_book": "2022-03-23 20:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2022-03-23 20:20:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2022-03-23 20:30:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-03-19 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2022-03-24 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2022-03-24 17:19:49 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2022-03-19 22:36:33 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/energy_trash_can": {
+    "criteria": {
+      "redstone": "2022-03-23 23:34:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-03-19 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2022-03-19 22:50:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2022-03-25 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2022-03-23 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2022-03-19 22:34:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2022-03-23 20:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-03-23 21:06:47 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:sword_in_the_lake": {
+    "criteria": {
+      "sword_in_the_lake": "2022-03-25 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2022-03-23 21:38:07 +0000",
+      "in_better_spider_dungeon": "2022-04-01 01:47:50 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2022-03-23 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2022-03-24 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2022-03-19 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2022-03-23 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2022-03-19 22:50:13 +0000"
+    },
+    "done": true
+  },
+  "psi:main/iron_cad_pickup": {
+    "criteria": {
+      "flower": "2022-03-23 23:38:39 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2022-03-23 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2022-04-01 01:45:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2022-03-23 21:01:33 +0000"
+    },
+    "done": false
+  },
+  "psi:main/psidust": {
+    "criteria": {
+      "flower": "2022-03-23 23:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2022-03-19 22:48:37 +0000",
+      "baked_potato": "2022-03-24 03:13:33 +0000",
+      "beef": "2022-03-25 16:35:47 +0000",
+      "chicken": "2022-03-25 00:21:56 +0000",
+      "cooked_mutton": "2022-03-19 22:39:46 +0000",
+      "apple": "2022-03-23 20:23:08 +0000",
+      "potato": "2022-03-24 00:21:57 +0000",
+      "cooked_cod": "2022-03-23 23:28:30 +0000",
+      "rotten_flesh": "2022-03-24 23:47:19 +0000",
+      "melon_slice": "2022-03-23 21:17:33 +0000",
+      "cooked_salmon": "2022-03-23 20:57:30 +0000",
+      "carrot": "2022-03-23 21:17:08 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2022-03-19 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:breadcrumbs": {
+    "criteria": {
+      "breadcrumbs": "2022-04-01 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2022-03-19 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2022-03-23 21:04:39 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2022-03-19 22:34:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2022-03-23 21:36:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-03-19 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2022-03-19 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-03-24 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "woot:main/root": {
+    "criteria": {
+      "killed_something": "2022-03-19 22:19:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2022-03-19 22:34:39 +0000"
     },
     "done": true
   },
@@ -11,9 +293,21 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2022-03-23 20:22:57 +0000"
+    },
+    "done": true
+  },
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2022-03-19 22:29:26 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2022-03-23 21:04:42 +0000"
     },
     "done": true
   },
@@ -29,34 +323,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "mahoutsukai:gandr": {
     "criteria": {
-      "auto": "2022-03-19 22:16:47 +0000"
+      "gandr": "2022-04-01 01:45:05 +0000"
     },
     "done": true
   },
-  "botania:main/root": {
+  "mana-and-artifice:smelt_vinteum": {
     "criteria": {
-      "flower": "2022-03-19 22:50:13 +0000"
+      "get_vinteum_dust": "2022-03-23 20:52:25 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "apotheosis:affix/common": {
     "criteria": {
-      "minecraft:skeleton": "2022-03-19 22:48:31 +0000",
-      "minecraft:zombie": "2022-03-19 22:19:04 +0000"
-    },
-    "done": false
-  },
-  "corail_woodcutter:recipes/from_spruce_planks": {
-    "criteria": {
-      "has_ingredient": "2022-03-19 22:34:37 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2022-03-19 22:34:01 +0000"
+      "sword": "2022-03-24 23:15:10 +0000"
     },
     "done": true
   },
@@ -66,22 +347,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "cooked_beef": "2022-03-19 22:48:37 +0000",
-      "cooked_mutton": "2022-03-19 22:39:46 +0000"
-    },
-    "done": false
-  },
-  "astralsorcery:root": {
-    "criteria": {
-      "astralsorcery_present": "2022-03-19 22:16:47 +0000"
+      "iron_leggings": "2022-03-25 00:13:31 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_ingredient": "2022-03-19 23:01:56 +0000"
+      "has_ingredient": "2022-03-23 21:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-03-23 20:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-03-24 16:50:19 +0000"
     },
     "done": true
   },
@@ -91,9 +377,28 @@
     },
     "done": true
   },
+  "mahoutsukai:morgan": {
+    "criteria": {
+      "morgan": "2022-04-01 01:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2022-03-23 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:mining": {
+    "criteria": {
+      "mining": "2022-03-23 20:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2022-03-19 22:55:47 +0000",
+      "minecraft:forest": "2022-03-23 20:51:11 +0000",
       "minecraft:taiga": "2022-03-19 22:33:22 +0000",
       "minecraft:giant_tree_taiga": "2022-03-19 22:33:42 +0000",
       "minecraft:deep_cold_ocean": "2022-03-19 22:55:59 +0000",
@@ -111,15 +416,51 @@
     },
     "done": false
   },
-  "elementalcraft:pickup/earth_shard": {
+  "apotheosis:affix/epic": {
     "criteria": {
-      "has_earth_shard": "2022-03-19 22:19:04 +0000"
+      "sword": "2022-03-24 23:40:31 +0000"
     },
     "done": true
   },
-  "create:root": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "0": "2022-03-19 22:16:47 +0000"
+      "coded_trigger": "2022-04-01 01:47:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2022-03-23 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-03-23 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2022-03-24 23:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-03-24 23:51:10 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2022-04-01 01:39:58 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2022-03-23 20:30:00 +0000"
     },
     "done": true
   },
@@ -129,15 +470,123 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
     "criteria": {
-      "tick": "2022-03-19 22:16:47 +0000"
+      "iron": "2022-03-23 20:30:00 +0000"
     },
     "done": true
   },
-  "resourcefulbees:resourcefulbees/root": {
+  "lootr:10loot": {
     "criteria": {
-      "inventory_changed": "2022-03-19 22:16:47 +0000"
+      "loot_stat": "2022-03-23 21:12:11 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2022-03-24 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2022-04-01 01:45:52 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2022-03-19 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-03-19 22:19:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2022-03-24 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-03-23 21:06:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2022-03-23 20:51:49 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2022-03-19 22:34:37 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inertcrystal": {
+    "criteria": {
+      "has_inertcrystal": "2022-03-24 16:42:04 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2022-03-23 21:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-03-19 22:48:31 +0000",
+      "minecraft:spider": "2022-03-23 21:03:28 +0000",
+      "minecraft:creeper": "2022-03-24 16:48:08 +0000",
+      "minecraft:slime": "2022-04-01 01:45:41 +0000",
+      "minecraft:cave_spider": "2022-04-01 01:47:29 +0000",
+      "minecraft:enderman": "2022-03-24 00:29:11 +0000",
+      "minecraft:zombie": "2022-03-19 22:19:04 +0000"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2022-03-19 22:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-03-23 21:53:59 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2022-03-24 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2022-03-24 23:17:10 +0000"
+    },
+    "done": false
+  },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2022-03-19 22:19:04 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-03-19 22:16:47 +0000"
     },
     "done": true
   },
@@ -153,57 +602,45 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_sapling": {
+  "lootr:25loot": {
     "criteria": {
-      "has_recipe": "2022-03-19 22:34:01 +0000"
+      "loot_stat": "2022-03-26 19:23:25 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/cobblestone": {
+  "pneumaticcraft:minigun": {
     "criteria": {
-      "has_planks": "2022-03-19 22:36:33 +0000"
+      "taken": "2022-04-01 02:21:11 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "coded_trigger": "2022-03-19 23:01:50 +0000"
+      "coded_trigger": "2022-03-23 21:06:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "crafting_table": "2022-03-19 22:34:38 +0000"
+      "diamond": "2022-03-23 21:36:54 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/root": {
+  "psi:main/root": {
     "criteria": {
-      "game_start": "2022-03-19 22:16:47 +0000"
+      "flower": "2022-03-23 23:38:39 +0000"
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "flower": "2022-03-19 22:50:13 +0000"
+      "iron": "2022-03-23 20:30:00 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/concrete": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_planks": "2022-03-19 22:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2022-03-19 22:19:04 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2022-03-19 22:34:01 +0000"
+      "in_better_spider_dungeon": "2022-04-01 01:47:50 +0000"
     },
     "done": true
   },
@@ -213,15 +650,27 @@
     },
     "done": true
   },
-  "woot:main/root": {
+  "appliedenergistics2:main/charged_quartz": {
     "criteria": {
-      "killed_something": "2022-03-19 22:19:04 +0000"
+      "certus": "2022-03-24 16:40:21 +0000"
     },
     "done": true
   },
-  "silentgear:root": {
+  "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
-      "get_item": "2022-03-19 22:34:39 +0000"
+      "has_ingredient": "2022-03-23 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2022-03-24 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-04-01 01:55:11 +0000"
     },
     "done": true
   },

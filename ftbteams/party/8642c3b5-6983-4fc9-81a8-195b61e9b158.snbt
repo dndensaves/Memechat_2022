@@ -1,0 +1,28 @@
+{
+	id: "8642c3b5-6983-4fc9-81a8-195b61e9b158"
+	type: "party"
+	owner: "097fde69-14ab-40f6-90d0-17d3e077fa5f"
+	ranks: {
+		097fde69-14ab-40f6-90d0-17d3e077fa5f: "owner"
+		ff5238c6-fcff-4d95-b8c8-7433123ff238: "member"
+		94424037-67d7-4516-a5f3-82f6944b1602: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "MastaMatthew's Party"
+		"ftbteams:color": "#FF5967"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1648060521807L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"MastaMatthew\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "097fde69-14ab-40f6-90d0-17d3e077fa5f", date: 1648062914031L, text: "{\"color\":\"green\",\"text\":\"Invited Boneyear\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1648062917835L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Boneyear\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "097fde69-14ab-40f6-90d0-17d3e077fa5f", date: 1648066471374L, text: "{\"color\":\"green\",\"text\":\"Invited Amitrajit\"}" }
+		{ from: "097fde69-14ab-40f6-90d0-17d3e077fa5f", date: 1648066490026L, text: "{\"color\":\"green\",\"text\":\"Invited Amitrajit\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1648066496292L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Amitrajit\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

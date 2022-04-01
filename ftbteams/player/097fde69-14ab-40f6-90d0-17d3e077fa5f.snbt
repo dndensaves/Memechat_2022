@@ -2,12 +2,10 @@
 	id: "097fde69-14ab-40f6-90d0-17d3e077fa5f"
 	type: "player"
 	player_name: "MastaMatthew"
-	ranks: {
-		097fde69-14ab-40f6-90d0-17d3e077fa5f: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "MastaMatthew"
-		"ftbteams:color": "#FF59C1"
+		"ftbteams:color": "#FF5967"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""
